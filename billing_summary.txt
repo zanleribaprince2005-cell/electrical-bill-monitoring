@@ -1,0 +1,11 @@
+========== BILLING SUMMARY ==========
+Name           Watts     Hours     kWh
+Fan            75        8         0.6
+TV             120       5         0.6
+Fridge         300       24        7.2
+
+-------------------------------------
+Total Energy Consumption: 8.4 kWh
+Tariff per kWh: 0.50
+Total Electricity Cost: 4.20
+=====================================
